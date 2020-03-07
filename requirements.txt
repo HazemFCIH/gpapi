@@ -1,3 +1,4 @@
 Flask==1.1.1
-spacy==2.2.3
+Werkzeug==1.0.0
+
 
