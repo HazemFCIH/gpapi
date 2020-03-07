@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "citric-sol-267521",
+  "private_key_id": "43f7b999333a3b5a9a6ec0a4db1a0baa40525ebc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUH3DJh90AsN7P\nySdKDZLL14DxeTQmOSQ8uN+SuBslAr5i3CBbMt/cqdZuFZNKoqMR78RXxHQtzloy\nnWVq4k26K2Wcq4ZgWY3YPTZ706GjGNPo8fX2s6bGz26/EFXU5nw3vHb/jr35UbIT\nSevjoC0xe/vTT8WzcnDtCaUoy4AACDEoQgcp5x+sCedgb5Qb6T32+HvYLtSz2mW6\nhuGZjYXmWhf/85k8CIHBvptzGpP034DnMbbN7OJaQDW2aPyWc4P/j0YpyYtRVxKy\ny0hWllafO413Jdyz6VxHe2Qhq15mRVsPEvk2TtPAcPIztIW+ZiFkdI3Z1FScyreU\nnA4eFkBDAgMBAAECggEADi+OqTZiU5Ec3bCJmz1+jBgpCLdPZ8O8NTaNbutD6kD/\ng89KKAHQz7zSRPu6/gBidrLMTo2JhOOI3uUVE+31fLlwQ1doCK06+PUv1R8ZEVos\n3Vfi8wwUkmDGXfUOC1RBnELn8KS2i/ynfdJsDYJHIcCahwvSRtPUfdcZIrWOnjIF\nUcfFVX0LUbi/KD184dePx1Y1qaMlGFE7BMxR95qsre1UbV80On3mku5mPrthPbm2\nm4rLyftao7E3LeOrVp5PvvSFoAqiz30fxo9zJYK8uwf9oACRzRK0nbf9miMz+2ZE\nedFx8WiWue91vExc+VFY+cu2yfXVybPayazGKQyMyQKBgQDLSpe1LNVY6zD+lPnr\n2NPzH1IMbREVQRnNGV6OiOvqzoG2/YpGKTxZTggBkGLH6yjbH20uKU9MCs6YZG7z\n1kGszxEKIquKUf1fsx4PcsRiY+K7l7o/N8lXNLjRkTFIuuRWb3BuDHnciT2LrYFT\n5XqNT/UzQQ7CAFg17V8VoONHSwKBgQC6hwzgpq/6Eq8RF8ljW/cvw5Af7kEkPBBh\n5GGUJNCpm/RDSa50WQHUw4jfIv5HNeh5zS0Jf5hxaqJhdf9zF1705FUt1NDsIToJ\npLEhHNhePzE6xwBabNRklEuf1dfen4UpFW5i/n6Ng9UDItF6a6iyMgo6+sxk+Adh\nL4FWJLP36QKBgBHXoikMnk0Hl21Atg61ISUdgp4ElJNA+3q810e7TLl3FntxFUnD\nJMDR0HISshjJ0vQodfSvO355FFjbt8E+9NSt99jj4hppx8s2dVT1xba8/ZFpZ7dU\nth8pSW9bRvATNyc+8Kc4ARoSEYzI1aj/Yxo0AllVRG5SiWtyQf4r+MaxAoGAGAKS\nUcijFlmZV2XscnHAG9Hcl3+fuv5QTYmMVfl3Mp30j0TIxAlBBxY0ZCSo/pmd1y/m\nADcAdHj5dfoua64ydut9W2zth7evNNaSRmTkJR2VRK+hCALCREAii+yG4Q0/os4z\na2K+/5Bctw6gUFXTXTy7vGPUM5sJuCTZTTFkSSECgYEAyQFJoiUmlpt1IdBGLyur\nYBrXLjxP/ff+UFGJ+0lHtVs0kyOn9IK4s8sFLX6HRzWRzMq5JxYiWX1QiQP/XIKg\n/GeMJMKEkTEsw60+UaNPzu1ZCfYukpBevS2SDXGeW3X+ISYGf0AUyecoZuiIolCu\nQLMbiFH70jkCgbtKd2H3Ogk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hazem-mohamed@citric-sol-267521.iam.gserviceaccount.com",
+  "client_id": "107865321347391716480",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hazem-mohamed%40citric-sol-267521.iam.gserviceaccount.com"
+}
