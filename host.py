@@ -18,6 +18,8 @@ def listToString(s):
 
 import re 
 import spacy
+import os
+os.system("python -m spacy download en")
 nlp = spacy.load("en") 
 def extract(sentence):
   doc = nlp(sentence)
