@@ -1,4 +1,4 @@
-Flask==1.1.1
-Werkzeug==1.0.0
+flask==1.1.1
+werkzeug==1.0.0
 regex==2020.2.20
 spacy==2.2.3
